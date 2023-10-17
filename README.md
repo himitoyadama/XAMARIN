@@ -8,3 +8,6 @@ https://anderson02.com/cs/xamarin1/xamarin-10/
 
 QRリーダー
 https://it-lake.com/xamarin_csharp_qr_code/
+
+xamarinで写真を撮る
+https://takataka430.hatenablog.com/entry/2021/04/03/061326
