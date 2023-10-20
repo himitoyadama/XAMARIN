@@ -1,0 +1,42 @@
+Xamarinで写真撮影の機能を作成したとのことですね。撮影した写真を保存や削除する機能についてお聞きですね。
+
+以下のコードは、撮影した写真を画面に表示する機能を持っています。このコードに、保存や削除の機能を追加することができます。
+
+```csharp
+private async void TakePhoto(object sender, EventArgs e)
+{
+    try
+    {
+        //写真をとる
+        var photo = await MediaPicker.CapturePhotoAsync();
+
+        if (photo != null)
+        {
+            //撮った写真を画面に表示する
+            var stream = await photo.OpenReadAsync();
+            image.Source = ImageSource.FromStream(() => stream);
+
+            //画像の保存場所を取得
+            var imagePath = photo.FullPath;
+            //画像を削除する
+            System.IO.File.Delete(imagePath);
+        }
+
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+    }
+}
+```
+
+このコードでは、`CapturePhotoAsync()`メソッドで写真を撮影し、`OpenReadAsync()`メソッドでストリームに変換して画面に表示しています。また、`FullPath`プロパティで画像の保存場所を取得し、`System.IO.File.Delete()`メソッドで画像を削除しています。
+
+このコードを参考に、保存や削除の機能を実装してみてください。
+
+ソース: Bing との会話 2023/10/21
+(1) Xamarin Froms で写真を撮影する - rksoftware. https://rksoftware.hatenablog.com/entry/2018/01/02/025156.
+(2) Xamarin Froms で写真を撮影する - rksoftware. https://bing.com/search?q=xamarin+%e5%86%99%e7%9c%9f%e6%92%ae%e5%bd%b1+%e4%bf%9d%e5%ad%98+%e5%89%8a%e9%99%a4.
+(3) カメラで静止画を撮影してファイルに保存する方法 - Android 開発 .... https://android.keicode.com/basics/multimedia-camera-save-as-file.php.
+(4) Android: Android 10 からの対象範囲別ストレージ (Scoped .... https://qiita.com/irgaly/items/0ce450dd77bd54fb560a.
+(5) undefined. https://github.com/jamesmontemagno/MediaPlugin.
