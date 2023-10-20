@@ -40,3 +40,16 @@ private async void TakePhoto(object sender, EventArgs e)
 (3) カメラで静止画を撮影してファイルに保存する方法 - Android 開発 .... https://android.keicode.com/basics/multimedia-camera-save-as-file.php.
 (4) Android: Android 10 からの対象範囲別ストレージ (Scoped .... https://qiita.com/irgaly/items/0ce450dd77bd54fb560a.
 (5) undefined. https://github.com/jamesmontemagno/MediaPlugin.
+
+ん？UIで操作できないのですが？
+
+コピー
+xamarin 写真撮影 UI 操作 を検索しています
+
+回答を生成しています…
+
+申し訳ありません。先程のコードでは、UIで操作することができませんでしたね。Xamarin.Formsでは、MediaPluginを使用することで、UI上で写真の撮影や選択を行うことができます12。
+
+以下の記事には、MediaPluginを使用してUI上で写真を撮影する方法が記載されています1。また、Xamarin.Essentialsを使用して画像ライブラリから写真を選択する方法についても説明されています3。
+
+ご参考になれば幸いです。
