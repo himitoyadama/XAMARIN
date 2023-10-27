@@ -6,6 +6,9 @@ https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 チュートリアル: 顧客データベース アプリケーションの作成
 https://learn.microsoft.com/ja-jp/windows/uwp/enterprise/customer-database-tutorial
 
+デバッガー アプリケーション アクティブ化エラーの診断
+https://learn.microsoft.com/ja-jp/previous-versions/hh972445(v=vs.140)?f1url=%3FappId%3DDev16IDEF1%26l%3DJA-JP%26k%3Dk(vs.debug.error.app_activation_failure)%3Bk(TargetFrameworkMoniker-.NETCore%2CVersion%253Dv5.0)%26rd%3Dtrue
+
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
 QRコードからURLを読み取ってWebサイトを表示する
