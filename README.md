@@ -9,6 +9,15 @@ https://learn.microsoft.com/ja-jp/windows/uwp/enterprise/customer-database-tutor
 デバッガー アプリケーション アクティブ化エラーの診断
 https://learn.microsoft.com/ja-jp/previous-versions/hh972445(v=vs.140)?f1url=%3FappId%3DDev16IDEF1%26l%3DJA-JP%26k%3Dk(vs.debug.error.app_activation_failure)%3Bk(TargetFrameworkMoniker-.NETCore%2CVersion%253Dv5.0)%26rd%3Dtrue
 
+アプリ ライセンス エラーの修正
+「このアプリはライセンスに問題があるため起動できませんでした」というメッセージを含むアクティベーション エラーが発生することがあります。次の回避策を試すことができます。
+
+[ビルド] メニューの [ソリューションのクリーン] を選択し、ファイル エクスプローラーでソリューション フォルダーを開き、bin フォルダーおよび obj フォルダーを削除します。 [ビルド]、[ソリューションのリビルド] の順に選択します。 ソリューションをリビルドすると必要なフォルダーが再作成されます。
+
+[スタート] 画面でアプリを選択し、アプリ バーの [アンインストール] を選択します。 ソリューションを消去し、リビルドします。
+
+管理者特権で実行しているコマンド プロンプトから、PowerShell コマンドを使用して、開発用ライセンスを削除し、再インストールします。 ソリューションを消去し、リビルドします。 「Getting a developer license at a command prompt (コマンド プロンプトで開発者ライセンスを取得する)」を参照してください。
+
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
 QRコードからURLを読み取ってWebサイトを表示する
