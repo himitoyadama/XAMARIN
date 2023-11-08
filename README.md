@@ -3,6 +3,9 @@
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 
+Xamarin.Android アプリに認証を追加する
+https://learn.microsoft.com/ja-jp/azure/developer/mobile-apps/azure-mobile-apps/quickstarts/xamarin-android/authentication?pivots=vs2022-windows
+
 チュートリアル: 顧客データベース アプリケーションの作成
 https://learn.microsoft.com/ja-jp/windows/uwp/enterprise/customer-database-tutorial
 
