@@ -3,6 +3,10 @@
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 
+WebView のカスタマイズ
+https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/app-fundamentals/custom-renderer/hybridwebview
+
+
 Xamarin.Android アプリに認証を追加する
 https://learn.microsoft.com/ja-jp/azure/developer/mobile-apps/azure-mobile-apps/quickstarts/xamarin-android/authentication?pivots=vs2022-windows
 
