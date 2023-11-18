@@ -3,7 +3,8 @@
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 
-https://github.com/furuya02/Xamarin.Forms.CallingJavascriptSample
+Visual Studio 2019 を使用した Xamarin.Forms の WebView |はじめる
+https://www.youtube.com/watch?v=RswghHDncUM
 
 Xamarin.FormsでWebビューを使用するには？
 https://www.buildinsider.net/mobile/xamarintips/0046
