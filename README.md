@@ -3,6 +3,8 @@
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 
+https://github.com/furuya02/Xamarin.Forms.CallingJavascriptSample
+
 Xamarin.FormsでWebビューを使用するには？
 https://www.buildinsider.net/mobile/xamarintips/0046
 
