@@ -3,6 +3,9 @@
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 
+Xamarin.FormsでWebビューを使用するには？
+https://www.buildinsider.net/mobile/xamarintips/0046
+
 実行可能なプロジェクト名
 https://qiita.com/toshi0607/items/b644c77d2e0ead71f6ce
 
