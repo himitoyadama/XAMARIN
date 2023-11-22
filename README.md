@@ -3,6 +3,9 @@
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
 
+Xamarin とMySQL データを連携
+https://www.cdata.com/jp/kb/tech/mysql-mobile-xamarin-gettingstarted.rst
+
 Xamarin.Forms の WebView で JavaScript 連携を行う
 https://qiita.com/amay077/items/2a8f14684b1210d75c1e
 
