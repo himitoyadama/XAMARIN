@@ -1,4 +1,6 @@
 # xamarin-reference
+Xamarin MySql Insert New Data to MySQL Server
+https://www.youtube.com/watch?v=wD0r6YrC5i0
 
 xamlコントロール
 https://learn.microsoft.com/ja-jp/xamarin/xamarin-forms/xaml/xaml-controls
