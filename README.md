@@ -1,4 +1,7 @@
 # xamarin-reference
+CData ADO.NET Provider って何？
+https://kageura.hatenadiary.jp/entry/xamarinadonet
+
 Xamarin MySql Insert New Data to MySQL Server
 https://www.youtube.com/watch?v=wD0r6YrC5i0
 
