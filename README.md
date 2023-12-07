@@ -1,4 +1,7 @@
 # xamarin-reference
+XAML デザイナーの最近の機能紹介
+https://m.youtube.com/watch?v=HJa5zg-1uQM
+
 CData ADO.NET Provider って何？
 https://kageura.hatenadiary.jp/entry/xamarinadonet
 
