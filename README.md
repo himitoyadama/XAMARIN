@@ -1,4 +1,7 @@
 # xamarin-reference
+XamarinでMySqlを使おうとしたらこのエラーが出て
+https://soncho-works.com/2019/10/12/xamarin%E3%81%A7system-typeinitializationexception-the-type-initializer-for-mysql-data-mysqlclient-replication-replicationmanager-threw-an-exception/
+
 XAML デザイナーの最近の機能紹介
 https://m.youtube.com/watch?v=HJa5zg-1uQM
 
