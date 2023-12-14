@@ -1,4 +1,8 @@
 # xamarin-reference
+Xamarin Forms. QR Code & Barcode Scanner Integrate with MySQL https://www.youtube.com/watch?v=XiTYCJD-V2Y&list=PLXfMTqJq8hDHg9o5LY3dHfoCeUAiYU-MG&index=12
+
+Xamarin Form. Inserting Data to Mysql Table. https://m.youtube.com/watch?v=vjiFPqB14yE
+
 XamarinでMySqlを使おうとしたらこのエラーが出て
 https://soncho-works.com/2019/10/12/xamarin%E3%81%A7system-typeinitializationexception-the-type-initializer-for-mysql-data-mysqlclient-replication-replicationmanager-threw-an-exception/
 
