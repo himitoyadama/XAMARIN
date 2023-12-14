@@ -1,4 +1,7 @@
 # xamarin-reference
+Dotnet MAUI App Icon Correct Way
+https://m.youtube.com/watch?v=iigquyjXlM0
+
 Xamarin Forms. QR Code & Barcode Scanner Integrate with MySQL https://www.youtube.com/watch?v=XiTYCJD-V2Y&list=PLXfMTqJq8hDHg9o5LY3dHfoCeUAiYU-MG&index=12
 
 Xamarin Form. Inserting Data to Mysql Table. https://m.youtube.com/watch?v=vjiFPqB14yE
