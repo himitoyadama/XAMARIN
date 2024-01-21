@@ -1,4 +1,7 @@
 # xamarin-reference
+.NET Maui with .NET Core 7.0 - Install wasm-tools
+https://stackoverflow.com/questions/77477759/net-maui-with-net-core-7-0-install-wasm-tools
+
 Dotnet MAUI App Icon Correct Way
 https://m.youtube.com/watch?v=iigquyjXlM0
 
