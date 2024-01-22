@@ -1,4 +1,7 @@
 # xamarin-reference
+C# .NET MAUIアプリを使ってWindowsアプリを起動するとエラーになった時の対処法
+https://qiita.com/inakuuun/items/f40aea40ca132e3d6e9d
+
 .NET Maui with .NET Core 7.0 - Install wasm-tools
 https://stackoverflow.com/questions/77477759/net-maui-with-net-core-7-0-install-wasm-tools
 
