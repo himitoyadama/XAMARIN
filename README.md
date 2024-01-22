@@ -1,4 +1,7 @@
 # xamarin-reference
+MAUI で wasm-tools エラーでビルド/デバッグが通らない時
+https://bibohlog.ltt.jp/how_to_solve_dotnet_maui_build_error_about_wasm-tools/
+
 C# .NET MAUIアプリを使ってWindowsアプリを起動するとエラーになった時の対処法
 https://qiita.com/inakuuun/items/f40aea40ca132e3d6e9d
 
