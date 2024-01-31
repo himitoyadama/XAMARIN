@@ -1,4 +1,7 @@
 # MAUI
+C# .NET MAUIで1から始めるスマホアプリ開発入門 ～4.MAUIでのデバッグ(エミュレータの作成, 設定)～
+https://m.youtube.com/watch?v=FtGQ5AkZkAw&t=22s
+
 C# .NET MAUIで1から始めるスマホアプリ開発入門 ～2.開発環境の設定～
 https://m.youtube.com/watch?v=1UTe4pHkIbo&t=56s
 
