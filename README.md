@@ -1,4 +1,7 @@
-# xamarin-reference
+# MAUI
+C# .NET MAUIで1から始めるスマホアプリ開発入門 ～2.開発環境の設定～
+https://m.youtube.com/watch?v=1UTe4pHkIbo&t=56s
+
 MAUI で wasm-tools エラーでビルド/デバッグが通らない時
 https://bibohlog.ltt.jp/how_to_solve_dotnet_maui_build_error_about_wasm-tools/
 
