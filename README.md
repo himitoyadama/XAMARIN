@@ -1,4 +1,7 @@
 # MAUI
+【6つの方法】「ERR_NAME_NOT_RESOLVED」エラーを解決するには
+https://kinsta.com/jp/knowledgebase/err_name_not_resolved/
+
 C# .NET MAUIで1から始めるスマホアプリ開発入門 ～4.MAUIでのデバッグ(エミュレータの作成, 設定)～
 https://m.youtube.com/watch?v=FtGQ5AkZkAw&t=22s
 
