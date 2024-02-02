@@ -1,4 +1,7 @@
 # MAUI
+「ERR_NAME_NOT_RESOLVED」とは
+https://saisoku-area.com/err_name_not_resolved/
+
 【6つの方法】「ERR_NAME_NOT_RESOLVED」エラーを解決するには
 https://kinsta.com/jp/knowledgebase/err_name_not_resolved/
 
