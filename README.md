@@ -1,4 +1,7 @@
-# MAUI
+# python 
+Python for Beginners - Learn Python in 1 Hour
+https://m.youtube.com/watch?v=kqtD5dpn9C8
+
 「ERR_NAME_NOT_RESOLVED」とは
 https://saisoku-area.com/err_name_not_resolved/
 
