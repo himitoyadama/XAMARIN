@@ -1,4 +1,7 @@
 # python 
+Python scripts in LibreOffice Calc using the ScriptForge library - LibreOffice Conference 2021
+https://m.youtube.com/watch?v=pHlLdyJz2sE
+
 Python MySQL Tutorial - Setup & Basic Queries (w/ MySQL Connector)
 https://m.youtube.com/watch?v=3vsC05rxZ8c
 
