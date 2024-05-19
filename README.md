@@ -1,4 +1,7 @@
 # python 
+Algorithms in Python – Full Course for Beginners
+https://m.youtube.com/watch?v=fW_OS3LGB9Q
+
 Python scripts in LibreOffice Calc using the ScriptForge library - LibreOffice Conference 2021
 https://m.youtube.com/watch?v=pHlLdyJz2sE
 
