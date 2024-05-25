@@ -1,4 +1,7 @@
 # python 
+【総集編】Python入門講座｜Pythonの基礎を3時間でしっかり学べます！高校生・プログラミング初心者向け
+https://m.youtube.com/watch?v=hv0w4ZCT-uQ
+
 Algorithms in Python – Full Course for Beginners
 https://m.youtube.com/watch?v=fW_OS3LGB9Q
 
